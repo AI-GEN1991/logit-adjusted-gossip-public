@@ -1,0 +1,28 @@
+# notebook journal-round2-b-sweep-seeds, version 1 (first session, stopped at the 11 h limit; 26 of 32 runs).
+# Missing: fedlc s4 n16 exp, fedlc s4 n32 ring, fedlc s4 n32 exp, kgt s3 n32 ring (FAILED: CUDA OOM), kgt s4 n32 ring, kgt s4 n32 exp.
+RES|{"m":"dpsgd","s":3,"n":16,"topo":"ring","e5":80.136,"i5":62.389,"cons":3.177,"gap":0.051,"mb":85.251,"wall":2651.275}
+RES|{"m":"dpsgd","s":3,"n":16,"topo":"exp","e5":75.014,"i5":72.782,"cons":0.001,"gap":0.5,"mb":298.377,"wall":2598.525}
+RES|{"m":"dpsgd","s":3,"n":32,"topo":"ring","e5":68.852,"i5":41.346,"cons":29.296,"gap":0.013,"mb":85.251,"wall":3108.749}
+RES|{"m":"dpsgd","s":3,"n":32,"topo":"exp","e5":68.962,"i5":64.881,"cons":0.001,"gap":0.4,"mb":383.628,"wall":3083.226}
+RES|{"m":"dpsgd","s":4,"n":16,"topo":"ring","e5":73.086,"i5":53.329,"cons":3.136,"gap":0.051,"mb":85.251,"wall":2611.548}
+RES|{"m":"dpsgd","s":4,"n":16,"topo":"exp","e5":70.886,"i5":68.613,"cons":0.001,"gap":0.5,"mb":298.377,"wall":2602.89}
+RES|{"m":"dpsgd","s":4,"n":32,"topo":"ring","e5":66.728,"i5":40.944,"cons":28.034,"gap":0.013,"mb":85.251,"wall":3092.98}
+RES|{"m":"dpsgd","s":4,"n":32,"topo":"exp","e5":62.898,"i5":59.633,"cons":0.001,"gap":0.4,"mb":383.628,"wall":3077.185}
+RES|{"m":"fedlc","s":3,"n":16,"topo":"ring","e5":81.01,"i5":64.327,"cons":3.062,"gap":0.051,"mb":85.251,"wall":2637.935}
+RES|{"m":"fedlc","s":3,"n":16,"topo":"exp","e5":78.798,"i5":77.453,"cons":0.001,"gap":0.5,"mb":298.377,"wall":2640.209}
+RES|{"m":"fedlc","s":3,"n":32,"topo":"ring","e5":70.278,"i5":43.213,"cons":28.921,"gap":0.013,"mb":85.251,"wall":3170.931}
+RES|{"m":"fedlc","s":3,"n":32,"topo":"exp","e5":70.646,"i5":67.772,"cons":0.001,"gap":0.4,"mb":383.628,"wall":3146.189}
+RES|{"m":"fedlc","s":4,"n":16,"topo":"ring","e5":75.762,"i5":59.092,"cons":2.907,"gap":0.051,"mb":85.251,"wall":2644.7}
+RES|{"m":"kgt","s":3,"n":16,"topo":"ring","e5":69.048,"i5":50.983,"cons":2.097,"gap":0.051,"mb":170.501,"wall":2668.686}
+RES|{"m":"kgt","s":3,"n":16,"topo":"exp","e5":69.528,"i5":65.149,"cons":0.0,"gap":0.5,"mb":596.754,"wall":2666.896}
+RES|{"m":"kgt","s":3,"n":32,"topo":"exp","e5":53.866,"i5":50.673,"cons":0.0,"gap":0.4,"mb":767.255,"wall":3166.895}
+RES|{"m":"kgt","s":4,"n":16,"topo":"ring","e5":51.302,"i5":36.213,"cons":5.888,"gap":0.051,"mb":170.501,"wall":2672.322}
+RES|{"m":"kgt","s":4,"n":16,"topo":"exp","e5":51.076,"i5":48.121,"cons":0.0,"gap":0.5,"mb":596.754,"wall":2674.771}
+RES|{"m":"la_bn","s":3,"n":16,"topo":"ring","e5":82.128,"i5":76.834,"cons":2.485,"gap":0.051,"mb":85.251,"wall":2620.44}
+RES|{"m":"la_bn","s":3,"n":16,"topo":"exp","e5":81.09,"i5":80.857,"cons":0.0,"gap":0.5,"mb":298.377,"wall":2635.04}
+RES|{"m":"la_bn","s":3,"n":32,"topo":"ring","e5":74.37,"i5":56.72,"cons":25.243,"gap":0.013,"mb":85.251,"wall":3165.557}
+RES|{"m":"la_bn","s":3,"n":32,"topo":"exp","e5":72.16,"i5":71.946,"cons":0.0,"gap":0.4,"mb":383.628,"wall":3144.394}
+RES|{"m":"la_bn","s":4,"n":16,"topo":"ring","e5":74.706,"i5":66.259,"cons":2.483,"gap":0.051,"mb":85.251,"wall":2644.332}
+RES|{"m":"la_bn","s":4,"n":16,"topo":"exp","e5":78.476,"i5":78.006,"cons":0.0,"gap":0.5,"mb":298.377,"wall":2637.316}
+RES|{"m":"la_bn","s":4,"n":32,"topo":"ring","e5":69.686,"i5":54.617,"cons":24.815,"gap":0.013,"mb":85.251,"wall":3146.573}
+RES|{"m":"la_bn","s":4,"n":32,"topo":"exp","e5":70.428,"i5":70.111,"cons":0.0,"gap":0.4,"mb":383.628,"wall":3136.618}

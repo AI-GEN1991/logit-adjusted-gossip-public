@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Logit-Adjusted Gossip: source code and results"
+authors:
+  - family-names: Mathur
+    given-names: Ashwini Kumar
+    affiliation: "R.V. University, Bangalore, India"
+  - family-names: Periyasami
+    given-names: Karthikeyan
+    affiliation: "R.V. University, Bangalore, India"
+license: MIT
+repository-code: "https://github.com/AI-GEN1991/logit-adjusted-gossip-public"
+preferred-citation:
+  type: article
+  title: "Logit-Adjusted Gossip: Removing Label-Skew Heterogeneity in Decentralized Learning at No Communication Cost"
+  authors:
+    - family-names: Mathur
+      given-names: Ashwini Kumar
+    - family-names: Periyasami
+      given-names: Karthikeyan
+  journal: "Discover Computing"
+  year: 2026
+  status: submitted

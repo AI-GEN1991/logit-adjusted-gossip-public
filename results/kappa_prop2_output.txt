@@ -1,0 +1,6 @@
+cifar10   n= 5 alpha=0.1: kappa median     4187  max     5000  mean kappa^2 1.63e+07
+cifar10   n= 5 alpha=0.5: kappa median      319  max     3748  mean kappa^2 1.40e+06
+cifar10   n= 5 alpha=1.0: kappa median       27  max      931  mean kappa^2 4.90e+04
+cifar10   n=16 alpha=0.1: kappa median     1387  max     4777  mean kappa^2 4.69e+06
+cifar10   n=32 alpha=0.1: kappa median      742  max     3734  mean kappa^2 1.63e+06
+cifar100  n= 5 alpha=0.1: kappa median      500  max      501  mean kappa^2 2.49e+05

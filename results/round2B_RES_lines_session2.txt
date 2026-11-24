@@ -1,0 +1,8 @@
+# notebook journal-round2-b-sweep-seeds, version 2 (scriptVersionId 371527053; resumed 26 finished runs + 2 checkpoints
+# from version 1; successfully ran in 6917.0 s, 32/32 runs). Only the 6 runs not in session 1 are listed (the other 26 lines are identical).
+RES|{"m":"fedlc","s":4,"n":16,"topo":"exp","e5":74.446,"i5":72.884,"cons":0.001,"gap":0.5,"mb":298.377,"wall":2650.64}
+RES|{"m":"fedlc","s":4,"n":32,"topo":"ring","e5":68.426,"i5":43.407,"cons":27.577,"gap":0.013,"mb":85.251,"wall":3151.688}
+RES|{"m":"fedlc","s":4,"n":32,"topo":"exp","e5":66.456,"i5":64.343,"cons":0.001,"gap":0.4,"mb":383.628,"wall":3138.159}
+RES|{"m":"kgt","s":3,"n":32,"topo":"ring","e5":54.564,"i5":31.86,"cons":39.511,"gap":0.013,"mb":170.501,"wall":3207.931}
+RES|{"m":"kgt","s":4,"n":32,"topo":"ring","e5":53.792,"i5":34.178,"cons":50.711,"gap":0.013,"mb":170.501,"wall":3085.529}
+RES|{"m":"kgt","s":4,"n":32,"topo":"exp","e5":59.546,"i5":56.857,"cons":0.0,"gap":0.4,"mb":767.255,"wall":3060.752}

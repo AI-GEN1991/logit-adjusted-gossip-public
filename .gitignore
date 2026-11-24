@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+runs/
+ckpt/
+models/
+data/
+*.pt
+.DS_Store
